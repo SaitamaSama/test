@@ -1,0 +1,10 @@
+.container {
+  max-width: 960px;
+  padding: 14px;
+}
+.nav {
+  background-color: red;
+}
+.nav2 {
+  background-color: blue;
+}
